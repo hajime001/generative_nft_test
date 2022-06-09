@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1778078118E04A6B3dF677E46dad578432435a47",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1778078118E04A6B3dF677E46dad578432435a47",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Opacity Eyes",
+  "SYMBOL": "OPE",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/opacity_eyes",
+  "SHOW_BACKGROUND": true
+}
