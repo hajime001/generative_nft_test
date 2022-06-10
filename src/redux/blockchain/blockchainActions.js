@@ -71,6 +71,7 @@ export const connect = () => {
               account: accounts[0],
               smartContract: SmartContractObj,
               web3: web3,
+              gasPrice: gasPrice,
             })
           );
           // Add listeners start
